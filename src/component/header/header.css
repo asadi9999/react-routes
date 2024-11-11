@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navs{
+    @apply flex flex-row justify-around bg-orange-400 md:px-3 py-4 text-lg mb-10
+}
